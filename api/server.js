@@ -13,7 +13,18 @@ import { upload } from "./upload.js";
 const app = express();
 const PORT= process.env.PORT  || 5000
 app.use(express.json())
-app.use(cors())
+
+// Enable CORS for your Netlify frontend
+const allowedOrigins = ['https://peppy-alpaca-839a5b.netlify.app/'];
+app.use(cors({
+  origin: function (origin, callback) {
+    if (!origin || allowedOrigins.includes(origin)) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+}));
 app.use(cookieParser())
 
 
