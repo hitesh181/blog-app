@@ -25,8 +25,11 @@ app.use(express.json())
 //     }
 //   },
 // }));
+app.use(cors({
+  origin: ["http://localhost:3000", "https://blog-app-k0le.onrender.com/"]
+}))
 
-app.use(cors())
+//app.use(cors())
 app.use(cookieParser())
 
 
