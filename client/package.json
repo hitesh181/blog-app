@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "proxy":"https://blogg-app-p4xx.onrender.com/api/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
