@@ -1,4 +1,4 @@
-# MERN Stack Blog App
+# Blogger App
 
 ## Table of Contents
 
