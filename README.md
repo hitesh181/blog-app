@@ -38,7 +38,7 @@ Provide instructions on how to set up and run your blog app locally. Include det
 
 ### Prerequisites
 
-Following must be installed
+The following must be installed before attempting to run the project locally
 - Node.js and npm
 - MongoDB
 
