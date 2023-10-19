@@ -9,7 +9,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Folder Structure](#folder-structure)
-- 
 ## Introduction
 
 Briefly introduce your MERN stack blog app. Explain what it does, its purpose, and any unique features it offers. You can also include a screenshot or demo GIF here if available.
