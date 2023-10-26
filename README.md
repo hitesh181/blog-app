@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Folder Structure](#folder-structure)
 ## Introduction
