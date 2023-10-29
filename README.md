@@ -10,8 +10,10 @@
 - [Folder Structure](#folder-structure)
 ## Introduction
 
-Briefly introduce your MERN stack blog app. Explain what it does, its purpose, and any unique features it offers. You can also include a screenshot or demo GIF here if available.
-
+- Seamlessly performs Create, Read, Update, and Delete (CRUD) operations, providing a seamless and intuitive
+interface to manage blogs effortlessly.
+- Empowering users with the ability to create, edit, and delete their own posts while ensuring they only read
+posts from others, showcasing a robust authentication system at the heart of the experience
 ## Features
 
 List the key features of your blog app. This can include things like:
