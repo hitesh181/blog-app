@@ -47,4 +47,8 @@ The following must be installed before attempting to run the project locally
 
    ```bash
    git clone https://github.com/your-username/your-blog-app.git
-   cd your-blog-app
+
+2. Navigate to the directory
+    ```bash
+    cd your-blog-app
+    
