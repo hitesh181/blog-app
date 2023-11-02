@@ -50,5 +50,7 @@ The following must be installed before attempting to run the project locally
 
 2. Navigate to the directory
     ```bash
-    cd your-blog-app
-    
+    cd blogger
+3. Navigate to client folder
+    ```bash
+    cd client  
