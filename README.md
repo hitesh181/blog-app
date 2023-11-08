@@ -53,4 +53,11 @@ The following must be installed before attempting to run the project locally
     cd blogger
 3. Navigate to client folder
     ```bash
-    cd client  
+    cd client
+    npm  run dev
+4. Navigate to API folder to start the backend
+   ```bash
+   cd..
+   cd api
+   npm run dev
+
