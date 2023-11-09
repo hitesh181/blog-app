@@ -61,3 +61,6 @@ The following must be installed before attempting to run the project locally
    cd api
    npm run dev
 
+5. Redirect to
+    http//localhost:3000
+
