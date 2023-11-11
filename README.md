@@ -7,7 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-- [Folder Structure](#folder-structure)
 ## Introduction
 
 - Seamlessly performs Create, Read, Update, and Delete (CRUD) operations, providing a seamless and intuitive
@@ -27,7 +26,7 @@ List the key features of your blog app. This can include things like:
 ## Technologies Used
 
 - **Frontend**: React, Vite, ReactContext, React-router, Sass.
-- **Backend**:  Node.js, Express.js, JWT, Multer for file handling
+- **Backend**:  Node.js, Express.js, JWT for authentication, Bycrypt for hashing, Multer for file handling
 - **Database**:  MongoDB, MongoAtlas.
 - **Other Tools**: Render for backend deployment and Netlify for frontend.
 
