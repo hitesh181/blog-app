@@ -61,5 +61,5 @@ The following must be installed before attempting to run the project locally
    npm run dev
 
 5. Redirect to
-    http//localhost:3000
+    http://localhost:3000 or your respective local address
 
