@@ -23,7 +23,7 @@ List the key features of your blog app. This can include things like:
 - User profiles
 - Image uploading enabled
 
-## Technologies Used
+## Technologies Used 
 
 - **Frontend**: React, Vite, ReactContext, React-router, Sass.
 - **Backend**:  Node.js, Express.js, JWT for authentication, Bycrypt for hashing, Multer for file handling
