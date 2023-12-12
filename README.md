@@ -6,7 +6,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-  - [Installation](#installation)
+  - [Installation](#installation) 
 ## Introduction
 
 - Seamlessly performs Create, Read, Update, and Delete (CRUD) operations, providing a seamless and intuitive
